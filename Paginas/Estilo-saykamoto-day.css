@@ -1,11 +1,10 @@
 * {
-    margin-left: 10px;
+    margin-left: 5px;
 }
 
 body {
-     background-color: black;
-     color: white;
      font-family: sans-serif,Arial, Helvetica;
+     background-color: rgb(158, 158, 158);
      
 }
 
@@ -17,16 +16,49 @@ header h1 {
           margin-top: 20px;
 }
 
+.solo-2 {
+        background-color: rgba(73, 73, 73, 0.842);
+        padding: 20px 50px 30px 20px;
+        width: 90vw;         /* largura da tela inteira */
+}
+
 nav {
      line-height: 25px;
      margin: 20px 20px 20px 20px ;
+     font-size: 13px;
 
 }
 
 a:hover {
-        color: yellow;
+        color:red;
 }
 
 a:visited {
-         color: red;
+         color: rgba(0, 0, 0, 0.63);
 }
+
+.vpx {
+       text-align: center;
+}
+
+.vapy {
+     border: 2px solid black;
+     display: inline-block;
+}
+
+.dark {
+       display:flex;
+       
+}
+
+.top {
+      display: inline-block;
+     
+}
+ p {
+     line-height: 24px;
+ }
+
+ ol ul li {
+        line-height: 24px ;
+ }
