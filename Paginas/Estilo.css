@@ -1,0 +1,45 @@
+* {
+    margin-left: 5px;
+}
+
+
+
+table, th, td {
+               border: 1px solid; color: black;
+ } 
+body {
+     background-color: rgba(134, 1, 1, 0.863);
+     font-family:sans-serif, Arial, Helvetica ;
+     line-height: 25px;
+    
+}
+
+header h1 {
+           text-align: center;
+           font-weight: bolder;
+           font-size:60px;
+           margin-top: 60px;
+}
+
+aside {
+      text-align: center;
+      display: flex;
+}
+
+nav {
+    line-height:28px;
+}
+
+a:hover {
+        color: yellow;
+        
+}
+a:visited {
+          color: rgb(0, 162, 255);
+}
+
+.vex {
+      display: inline-flex;
+}
+
+
