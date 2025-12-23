@@ -1,0 +1,57 @@
+* {
+    margin-left: 5px;
+}
+
+body {
+     font-family: sans-serif,Arial, Helvetica;
+     background-color: rgb(158, 158, 158);
+     
+}
+
+header h1 {
+          text-align: center;
+          text-decoration: underline;
+          font-weight: bolder;
+          font-size: 48px;
+          margin-top: 20px;
+}
+
+nav {
+      display: flex;
+     
+     font-weight: bolder;
+
+}
+
+a:hover {
+        color:red;
+}
+
+a:visited {
+         color: rgba(0, 0, 0, 0.63);
+}
+
+p {
+     line-height: 24px;
+ }
+
+ ol ul li {
+        line-height: 24px ;
+ }
+
+ .top {
+     display: flex;
+ }
+
+ .box {
+      display: flex;
+ }
+.velox ,h4 p {
+     border: 2px solid black;
+     display:inline-block;
+     
+      
+ }
+
+
+
